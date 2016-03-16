@@ -2,6 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 
+/// viene la prueba
 
 typedef struct Alien_t
 {
